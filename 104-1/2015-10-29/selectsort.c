@@ -39,4 +39,5 @@ main()
         else
             printf("%d %d %d %d\n", m[0], m[1], m[2], t);
     }
+    return 0;
 }
