@@ -21,4 +21,5 @@ int main()
         sum *= 2;
         printf("%d\n", sum);
     }
+    return 0;
 }
