@@ -18,4 +18,5 @@ main()
         }
         printf("%d\n", i - book[p]);
     }
+    return 0;
 }
