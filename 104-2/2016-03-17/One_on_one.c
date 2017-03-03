@@ -32,4 +32,5 @@ main()
         }
         printf("%d\n", win);
     }
+    return 0;
 }
