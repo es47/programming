@@ -55,4 +55,5 @@ int main()
         ans += max - min;
         printf("%u\n", ans);
     }
+    return 0;
 }
