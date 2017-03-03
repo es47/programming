@@ -50,4 +50,5 @@ main()
                 printf("Backward\n");
         }
     }
+    return 0;
 }
