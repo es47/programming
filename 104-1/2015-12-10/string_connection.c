@@ -30,4 +30,5 @@ main()
         if (n != 0)
             printf("\n");
     }
+    return 0;
 }
