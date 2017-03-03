@@ -34,4 +34,5 @@ main()
             printf("%c", line[i]);
         printf("\n");
     }
+    return 0;
 }
