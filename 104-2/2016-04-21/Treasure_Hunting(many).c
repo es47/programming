@@ -73,4 +73,5 @@ int main()
         }
         printf("%d\n", sol);
     }
+    return 0;
 }
