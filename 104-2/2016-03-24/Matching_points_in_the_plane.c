@@ -49,4 +49,5 @@ int main()
             totald += sqrt(p1[i] * p1[i] + p2[n - i - 1] * p2[n - 1 - i]);
         printf("%d\n", (int) totald);
     }
+    return 0;
 }
