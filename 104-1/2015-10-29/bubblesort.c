@@ -25,4 +25,5 @@ main()
         }
         printf("%d\n", t);
     }
+    return 0;
 }
