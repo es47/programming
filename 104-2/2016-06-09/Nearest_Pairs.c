@@ -33,4 +33,5 @@ int main()
         else
             printf("(%d,%d):%d\n", left, right, ans);
     }
+    return 0;
 }
