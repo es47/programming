@@ -26,4 +26,5 @@ int main()
         }
         printf("%d\n", time);
     }
+    return 0;
 }
