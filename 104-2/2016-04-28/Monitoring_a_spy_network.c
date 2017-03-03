@@ -22,4 +22,5 @@ int main()
         phone += table[0];
         printf("%d\n", phone);
     }
+    return 0;
 }
