@@ -21,4 +21,5 @@ main()
                 opt[i][j] = ((opt[i - 1][j] > opt[i][j - 1])? opt[i - 1][j]: opt[i][j - 1]) + map[i][j];
         printf("%u\n", opt[ncase][ncase]);
     }
+    return 0;
 }
