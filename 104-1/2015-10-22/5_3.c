@@ -28,4 +28,5 @@ main()
         if (ncase != 0)
             printf("\n");
     }
+    return 0;
 }
