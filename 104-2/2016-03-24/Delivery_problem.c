@@ -26,4 +26,5 @@ main()
             sum += t[i];
         printf("%d\n", sum);
     }
+    return 0;
 }
