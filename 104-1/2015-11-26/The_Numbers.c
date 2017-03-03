@@ -17,4 +17,5 @@ main()
                 t++;
         printf("%d\n", t);
     }
+    return 0;
 }
